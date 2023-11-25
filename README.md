@@ -87,6 +87,8 @@ By 0Ruguri0 License: Apache 2.0
 
 About Creating A Real Shop in a Static Template worth $3 404.74 
 
-$344.74 (2 year contract) with GoDaddys with a Renew of (220$ per year)
+$344.74 (2 year contract) with GoDaddys 
+
+with a Renew of (220$ per year)
 
 
