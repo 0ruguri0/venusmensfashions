@@ -83,9 +83,8 @@ w/ renews of 150$  per year after 2 years
 By 0Ruguri0 License: Apache 2.0
 
 
-About Creating A Real Shop in a Static Template worth $3 404.74 for only $344.74.
+About Creating A Real Shop in a Static Template worth $3 404.74 
 
-
-2 year contract with GoDaddys with a Renew of 220$ per month
+$344.74 2 year contract with GoDaddys with a Renew of 220$ per year
 
 
