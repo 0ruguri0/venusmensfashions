@@ -13,6 +13,8 @@ GST & Fees $2.73
 
 Total (CAD) C$23.71 = 2 year = venusmensfashions.ca
 
+![domain](https://github.com/0ruguri0/venusmensfashion/assets/150361492/054f946c-5219-4ee0-bdd5-741a45842670)
+
 
 
 ==============================================================
@@ -36,11 +38,12 @@ Renews at C$215.88.
 
 107.88 First Year + 215.88 Renews at = $323.76
 
+![Web Host](https://github.com/0ruguri0/venusmensfashion/assets/150361492/15d4bc0d-45c4-41df-a98c-21bbcfd628c8)
 
 
 ==============================================================
 
-Build Fee 
+Build Fee (FREE)
 
 
 60 Hours spend
@@ -51,7 +54,7 @@ Build Fee
 
 ==============================================================
 
-Domain Name Value
+Domain Name Value   (revenue)
 
 
 $2100 to $3000
