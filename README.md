@@ -11,7 +11,7 @@ Domain worth around 2100-3000$
 
 Domain Name is 24$ for 2 year
 
-SubtotalC$20.98
+Subtotal C$20.98
 
 GST & Fees $2.73
 
