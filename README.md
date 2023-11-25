@@ -44,9 +44,11 @@ Contract Fee
 
 $20,98 - Domain - 2 year
 
-$323.76 - Web Host - 2 year
+$323.76 - Web Host - 2 year (for 200$ only)
 
 "$344.74 - 2 Year Total To Legally Have Website & Shop Ownership"
+
+220.98$
 
 
 w/ renews of 150$  per year after 2 years
