@@ -2,6 +2,7 @@
 Online Shop Contact Page &amp; Static Price List Website
 
 ==============================================================
+
 Domain worth around 2100-3000$
 
 Domain Name is 24$ for 2 year
@@ -10,7 +11,9 @@ SubtotalC$20.98
 GST & Fees $2.73
 Total (CAD) C$23.71 = 2 year = venusmensfashions.ca
 
+
 ==============================================================
+
 
 Web Hosting Deluxe - 2 year contract $323.76
 
@@ -24,7 +27,9 @@ With a 1-yr term. You pay C$107.88 today.
 Renews at C$215.88.
 
 107.88 First Year + 215.88 Renews at = $323.76
+
 ==============================================================
+
 
 Contract Fee
 
