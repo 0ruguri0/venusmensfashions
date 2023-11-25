@@ -65,7 +65,7 @@ $2100 to $3000
 "Because of the keyword #Mens #Fashion"
 
 
-Total worth to sell: 3 404.74$
+Total worth to sell: 3 444.74$
 
 ==============================================================
 
