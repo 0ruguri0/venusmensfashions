@@ -51,6 +51,7 @@ $323.76 - Web Host - 2 year
 
 w/ renews of 150$  per year after 2 years
 
+==============================================================
 
 Build Fee 
 
@@ -61,6 +62,7 @@ Build Fee
 
 960$ in hours spended to build the project
 
+==============================================================
 
 Domain Name Value
 
