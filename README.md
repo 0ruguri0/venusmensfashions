@@ -36,20 +36,7 @@ Renews at C$215.88.
 
 107.88 First Year + 215.88 Renews at = $323.76
 
-==============================================================
 
-
-Contract Fee
-
-
-$20,98 - Domain - 2 year
-
-$323.76 - Web Host - 2 year 
-
-"$344.74 - 2 Year Total To Legally Have Website & Shop Ownership"
-
-
-w/ renews of 150$  per year after 2 years
 
 ==============================================================
 
@@ -73,4 +60,17 @@ $2100 to $3000
 
 Total worth to sell: 3 404.74$
 
+==============================================================
+
+Contract Fee
+
+
+$20,98 - Domain - 2 year
+
+$323.76 - Web Host - 2 year 
+
+"$344.74 - 2 Year Total To Legally Have Website & Shop Ownership"
+
+
+w/ renews of 150$  per year after 2 years
 
