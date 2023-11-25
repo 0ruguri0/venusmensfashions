@@ -69,7 +69,7 @@ Total worth to sell: 3 404.74$
 
 ==============================================================
 
-Contract Fee
+Contract Fee with GO DADDY'S
 
 
 $20,98 - Domain - 2 year
