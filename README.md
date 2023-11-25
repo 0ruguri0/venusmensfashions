@@ -1,7 +1,7 @@
 # venusmensfashion
 Online Shop Contact Page &amp; Static Price List Website
 
-It has Legal License of OWNERSHIP but no Legal name. 
+It has Legal License of OWNERSHIP but no Legal Domain Name. 
 
 https://venusmensfashions.000webhostapp.com/index.html
 
