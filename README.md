@@ -104,5 +104,6 @@ NO CREDIT ADDED and gets 14-28 views per day
 
 ![Venus Mens Fashions](https://github.com/0ruguri0/venusmensfashions/assets/150361492/29f3f864-b34e-4159-9c3e-03e9e038bced)
 
+In 1 week of google maps
 
 ![customer views](https://github.com/0ruguri0/venusmensfashions/assets/150361492/2e382cd0-1615-444b-a89f-1e1b1b8c3494)
