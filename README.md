@@ -5,7 +5,7 @@ It has Legal License of OWNERSHIP but no Legal Domain Name.
 
 https://venusmensfashions.000webhostapp.com/index.html
 
-==============================================================
+================================
 
 Domain worth around 2100-3000$
 
@@ -21,7 +21,7 @@ Total (CAD) C$23.71 = 2 year = venusmensfashions.ca
 
 
 
-==============================================================
+================================
 
 
 Web Hosting Deluxe - 2 year contract $323.76
@@ -45,7 +45,7 @@ Renews at C$215.88.
 ![Web Host](https://github.com/0ruguri0/venusmensfashion/assets/150361492/15d4bc0d-45c4-41df-a98c-21bbcfd628c8)
 
 
-==============================================================
+================================
 
 Build Fee (FREE)
 
@@ -56,7 +56,7 @@ Build Fee (FREE)
 
 960$ in hours spended to build the project
 
-==============================================================
+================================
 
 Domain Name Value   (revenue)
 
@@ -67,7 +67,7 @@ $2100 to $3000
 
 Total worth to sell: 3 444.74$
 
-==============================================================
+================================
 
 Contract Fee with GO DADDY'S
 
@@ -81,7 +81,7 @@ $323.76 - Web Host - 2 year
 
 w/ renews of 150$  per year after 2 years
 
-==============================================================
+================================
 
 
 By 0Ruguri0 License: Apache 2.0
@@ -93,7 +93,7 @@ $344.74 (2 year contract)
 
 with a Renew of (220$ per year)
 
-==============================================================
+================================
 
 Google Maps - 29$
 
